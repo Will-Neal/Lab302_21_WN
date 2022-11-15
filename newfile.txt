@@ -1,1 +1,1 @@
-New content for the newfile.txt file for purposes of the lab
+Changing the content of newfile.txt on a new branch for purposes of the lab.
