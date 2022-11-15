@@ -1,0 +1,1 @@
+New content for the newfile.txt file for purposes of the lab
